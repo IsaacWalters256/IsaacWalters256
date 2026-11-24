@@ -1,4 +1,4 @@
--Currently doing some game projects, the crown of this being a 3d platformer.
+-I don't know what I'm doing anymore or if I even still remember how to code, it feels like its slipping away, becoming harder and harder to focus
 
 <!---
 IsaacWalters256/IsaacWalters256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
